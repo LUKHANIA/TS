@@ -294,6 +294,16 @@ img {
   .nav__menu{
     width: 50%;
   }
+  .home__button{
+  color: var(--black-color);
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: .5rem;
+  font-weight: var(--font-semi-bold);
+  margin-top: 6rem;
+  width: 15%;
+  }
 }
 
 /* For large devices */
@@ -386,3 +396,4 @@ img {
     max-height: 1000px
   }
 }
+
