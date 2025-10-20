@@ -302,7 +302,7 @@ img {
   column-gap: .5rem;
   font-weight: var(--font-semi-bold);
   margin-top: 6rem;
-  width: 15%;
+  width: 25%;
   }
 }
 
@@ -396,4 +396,5 @@ img {
     max-height: 1000px
   }
 }
+
 
